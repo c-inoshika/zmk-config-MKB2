@@ -2,12 +2,12 @@
   "repository": "c-inoshika/zmk-config-MKB2",
   "branch": "main",
   "target": "all",
-  "status": "passing",
-  "raw_status": "success",
-  "color": "#2ea44f",
-  "sha": "4aca059bc08c253e2bdc9a2d5474b3cae0018d72",
-  "run_id": "28301445757",
-  "run_number": "19",
-  "run_url": "https://github.com/c-inoshika/zmk-config-MKB2/actions/runs/28301445757",
-  "generated_at": "2026-06-27T21:01:28Z"
+  "status": "failing",
+  "raw_status": "failure",
+  "color": "#d73a49",
+  "sha": "55f6b0d4c58ac608dc90420c2d6f85739441d4a9",
+  "run_id": "28335617861",
+  "run_number": "20",
+  "run_url": "https://github.com/c-inoshika/zmk-config-MKB2/actions/runs/28335617861",
+  "generated_at": "2026-06-28T21:01:48Z"
 }
